@@ -1,0 +1,15 @@
+{
+  "dataset": "mashlyn/online-retail-ii-uci",
+  "obs_window": [
+    "2009-12-01",
+    "2010-12-01"
+  ],
+  "holdout_window": [
+    "2010-12-01",
+    "2011-12-01"
+  ],
+  "customers_observed": 4266,
+  "holdout_buyer_rate": 0.6359587435536803,
+  "pareto_top20_revenue_share": 0.732683241178362,
+  "pareto_top10_revenue_share": 0.5964081926713699
+}
